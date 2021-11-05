@@ -1,2 +1,0 @@
-# SQL
-w/ programmers
